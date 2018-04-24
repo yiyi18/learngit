@@ -5,3 +5,5 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 Branch dev created.
 change 12.
+new change 1.
+I wrote some code which are not commited yet.
